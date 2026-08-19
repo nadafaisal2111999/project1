@@ -21,7 +21,12 @@ A modern, simple, and clean Task Management application built using **Flutter** 
 
 | Main Screen |
 | :---: |
-| <img src="screenshots/home.png" width="260"/> |
+| <img width="1237" height="2257" alt="Screenshot 2026-08-20 003223" src="https://github.com/user-attachments/assets/2c38c3a2-f87e-46d1-bc45-6b8ad2fa7929" />
+ |
+ <img width="1232" height="2237" alt="Screenshot 2026-08-20 003242" src="https://github.com/user-attachments/assets/143bac28-8010-4a5c-88ee-bb257ae029e2" />
+
+<img width="1255" height="2265" alt="Screenshot 2026-08-20 003308" src="https://github.com/user-attachments/assets/a1b3d356-f9b8-41fc-a77e-29db1ae116ce" />
+
 
 > *Note: Place your screenshot in a `screenshots` folder in the project root and name it `home.png`.*
 
@@ -31,12 +36,11 @@ A modern, simple, and clean Task Management application built using **Flutter** 
 
 - [x] Basic Task Creation & Deletion
 - [x] Clean Card Layout & Purple Theme Setup
-- [x] Local Persistence Setup
-- [ ] ⏳ Input Validation (Prevent empty task submissions)
-- [ ] ⏳ Mark Tasks as Completed (Checkmark toggle)
+- [x] Local Persistence Setup (Hive)
+- [x] Form Validation (Prevent empty task submission)
+- [x] Mark Task as Completed (Checkmark toggle)
 - [ ] ⏳ Edit Existing Tasks
 - [ ] ⏳ Add User Profile Avatar to Header
-
 ---
 
 ## 💡 Challenges & Problem Solving
